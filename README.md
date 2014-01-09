@@ -18,3 +18,7 @@ The library supports all the features of Ext Direct:
 
 ##Minimal Requirements
   * ZendFramework 1.11.*
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/devjseu/extjs4-zend-json-server/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
